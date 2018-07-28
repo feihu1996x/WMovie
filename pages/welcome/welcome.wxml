@@ -3,6 +3,6 @@
     <image class="avatar" src="{{avatarUrl}}"></image>
     <text class="motto">Hello, {{nickName}}</text>
     <view class="journey-container" bindtap="onTap">
-    	<text class="journey">开启小程序之旅</text>
+    	<text class="journey">WMovie</text>
     </view>
 </view>

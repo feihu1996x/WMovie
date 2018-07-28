@@ -180,6 +180,15 @@ Page({
                 dataUrl: postData.music.url,
                 title: postData.music.title,
                 coverImgUrl: postData.music.coverImg,
+                success(){
+                  console.log('wx.playBackgroundAudio(OBJECT)接口调用成功');
+                },
+                fail(){
+                  console.log('wx.playBackgroundAudio(OBJECT)接口调用失败');
+                },
+                complete(){
+                  console.log('wx.playBackgroundAudio(OBJECT)接口已经被调用');
+                }
             })
             this.setData({
                 isPlayingMusic: true

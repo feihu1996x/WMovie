@@ -13,7 +13,7 @@ var local_database = [
         detail: "Desmond（戴斯蒙）一觉醒来发现自己被一群人给抓了，他们自称是圣殿骑士，并且知道Desmond是刺客，需要通过Desmond的DNA来探索古代一些伊甸园圣器的信息。[2]  于是Desmond就只能被迫进入一台叫Animus的机器，来读取自己祖先留在DNA里的记忆。他读取到了一位刺客大师Altair（阿泰尔）。Altair作为刺客首领Mualim最得意的弟子，被派遣一项任务和两名刺客兄弟去一个古墓中拿取一件宝物，但当Altair到达的时候发现圣殿骑士已经取得了宝物。Altair高估了自己的能力硬碰硬，结果害死了自己的一个兄弟，另一个兄弟夺回了宝物死里逃生。于是回来后Altair被贬为最低等的刺客从头开始学习。同时，师傅Mualim让Altair刺杀九位圣殿骑士首领。Altair一步一步完成任务，但直到杀死最后一位圣殿骑士首领Robert（罗伯特）之后，他才知道原来自己的师傅Mualim是深深隐藏着的第十位圣殿骑士首领，为的就是利用Altair取得宝物，还能干掉自己的同伙。当Altair返回刺客基地马西亚夫城堡的时候，Mualim已经对那件宝物——伊甸园圣器金苹果有所研究，并得到了巨大的力量，但Altair作为正统的刺客，凭自己不屈的毅力杀死了背叛刺客的师傅。回到现代，圣殿骑士们已经对金苹果有所了解，Desmond面临着被处死的危机。同时，他发现在Animus中呆久了之后，学会了Altair的一项独特刺客技能——鹰眼，并通过鹰眼发现了地面、墙壁上的血迹。原来在他之前已经有人被这样当做实验品，但不幸死亡。（那就是16号，Desmond是17号。）",
         postId: 0,
         music: {
-            url: "http://ws.stream.qqmusic.qq.com/C100003507bR0gDKBm.m4a?fromtag=38",
+          url: "http://dev.feihu1996.cn/WMovie/src/youreyes.mp3",
             title: "夜夜夜夜-齐秦",
             coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001TEc6V0kjpVC.jpg?max_age=2592000"
         }
@@ -32,7 +32,7 @@ var local_database = [
         avatar: "/images/avatar/1.png",
         postId: 1,
         music: {
-            url: "http://ws.stream.qqmusic.qq.com/C100003GdCmG4NkEOR.m4a?fromtag=38",
+          url: "http://dev.feihu1996.cn/WMovie/src/youreyes.mp3",
             title: "鬼迷心窍-李宗盛",
             coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000002xOmp62kqSic.jpg?max_age=2592000"
         }
@@ -52,7 +52,7 @@ var local_database = [
         avatar: "/images/avatar/3.png",
         postId: 2,
         music: {
-            url: "http://ws.stream.qqmusic.qq.com/C100004HLusI2lLjZy.m4a?fromtag=38",
+          url: "http://dev.feihu1996.cn/WMovie/src/youreyes.mp3",
             title: "女儿情-万晓利",
             coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004Wv5BO30pPc0.jpg?max_age=2592000"
         }
@@ -71,7 +71,7 @@ var local_database = [
         avatar: "/images/avatar/5.png",
         postId: 3,
         music: {
-            url: "http://ws.stream.qqmusic.qq.com/C100002mWVx72p8Ugp.m4a?fromtag=38",
+          url: "http://dev.feihu1996.cn/WMovie/src/youreyes.mp3",
             title: "恋恋风尘-老狼",
             coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001VaXQX1Z1Imq.jpg?max_age=2592000",
         }
@@ -90,7 +90,7 @@ var local_database = [
         avatar: "../../../images/avatar/3.png",
         postId: 4,
         music: {
-            url: "http://ws.stream.qqmusic.qq.com/C100000Zn0vS4fKKo8.m4a?fromtag=38",
+          url: "http://dev.feihu1996.cn/WMovie/src/youreyes.mp3",
             title: "沉默是金-张国荣",
             coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000003at0mJ2YrR2H.jpg?max_age=2592000"
         }
@@ -109,7 +109,7 @@ var local_database = [
         avatar: "../../../images/avatar/5.png",
         postId: 5,
         music: {
-            url: "http://ws.stream.qqmusic.qq.com/C100002I8eGJ28BI17.m4a?fromtag=38",
+          url: "http://dev.feihu1996.cn/WMovie/src/youreyes.mp3",
             title: "朋友-谭咏麟",
             coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004eGsCN3SUheO.jpg?max_age=2592000"
         }

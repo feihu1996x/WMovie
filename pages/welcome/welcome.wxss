@@ -29,7 +29,7 @@
 }
 
 .journey{
-	font-size:22rpx;
+	font-size:30rpx;
 	font-weight: bold;
 	line-height:80rpx;
 	color: #405f80;
