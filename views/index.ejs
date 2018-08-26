@@ -4,17 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" href="static/img/favicon.ico">
-    <link rel="stylesheet" href="static/css/bootstrap.min.css">
-    <link rel="stylesheet" href="static/css/index.css">
-    <title>WMovie</title>
+    <link rel="icon" href="<%= url_prefix %>/static/img/favicon.ico">
+    <link rel="stylesheet" href="<%= url_prefix %>/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<%= url_prefix %>/static/css/index.css">
+    <title>仿豆瓣电影微信小程序</title>
 </head>
 <body>
         <div class="container">
             <div class="starter-template">
                 <h1>WMovie</h1>
                 <p class="lead">
-                    一个集阅读与观影于一体的微信小程序
+                    仿豆瓣电影微信小程序
                 </p>
                 <p class="lead">
                     <a href="javascript:void()" class="btn btn-lg btn-default" data-toggle="modal" data-target="#myModal">Get It</a>
@@ -65,7 +65,7 @@
                 <!-- 设置轮播图片 -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="static/img/01.png" alt="" >
+                        <img src="<%= url_prefix %>/static/img/01.png" alt="" >
                         <!-- 设置对应的标题和内容 -->
                         <!-- <div class="carousel-caption">
                             <h4>标题一</h4>
@@ -74,7 +74,7 @@
                     </div>
 
                     <div class="item">
-                            <img src="static/img/02.png" alt="" >
+                            <img src="<%= url_prefix %>/static/img/02.png" alt="" >
                             <!-- 设置对应的标题和内容 -->
                             <!-- <div class="carousel-caption">
                                 <h4>标题一</h4>
@@ -83,7 +83,7 @@
                     </div>
 
                     <div class="item">
-                            <img src="static/img/03.png" alt="" >
+                            <img src="<%= url_prefix %>/static/img/03.png" alt="" >
                             <!-- 设置对应的标题和内容 -->
                             <!-- <div class="carousel-caption">
                                 <h4>标题一</h4>
@@ -92,7 +92,7 @@
                     </div>  
                     
                     <div class="item">
-                            <img src="static/img/04.png" alt="" >
+                            <img src="<%= url_prefix %>/static/img/04.png" alt="" >
                             <!-- 设置对应的标题和内容 -->
                             <!-- <div class="carousel-caption">
                                 <h4>标题一</h4>
@@ -101,7 +101,7 @@
                     </div>
 
                     <div class="item">
-                            <img src="static/img/05.png" alt="" >
+                            <img src="<%= url_prefix %>/static/img/05.png" alt="" >
                             <!-- 设置对应的标题和内容 -->
                             <!-- <div class="carousel-caption">
                                 <h4>标题一</h4>
@@ -110,7 +110,7 @@
                     </div>         
                     
                     <div class="item">
-                            <img src="static/img/06.png" alt="" >
+                            <img src="<%= url_prefix %>/static/img/06.png" alt="" >
                             <!-- 设置对应的标题和内容 -->
                             <!-- <div class="carousel-caption">
                                 <h4>标题一</h4>
@@ -139,7 +139,7 @@
         </div>      
         
 
-    <script src="static/js/jquery.min.js"></script>
-    <script src="static/js/bootstrap.min.js"></script>
+    <script src="<%= url_prefix %>/static/js/jquery.min.js"></script>
+    <script src="<%= url_prefix %>/static/js/bootstrap.min.js"></script>
 </body>
 </html>
