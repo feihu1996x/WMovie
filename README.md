@@ -12,7 +12,7 @@ JavaScript
 BootStrap
 Node.js
 Express(网站后台框架)
-Docker(端口映射)
+Docker(容器端口映射)
 Nginx(反向代理)
 PM2(进程管理器)
 
