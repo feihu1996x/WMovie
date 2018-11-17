@@ -1,30 +1,25 @@
 # WMovie
 
-## 项目描述
+> 仿豆瓣电影微信小程序
 
-仿豆瓣电影微信小程序
+## Tech Stack
 
-## 技术栈
-
-WXML
-WXSS
-JavaScript
-BootStrap
-Node.js
-Express(网站后台框架)
-Docker(容器端口映射)
-Nginx(反向代理)
-PM2(进程管理器)
+- WXML/WXSS/JavaScript
+- BootStrap
+- Node.js/Express
+- Docker/Nginx
+- PM2
 
 ## Build And Setup
 
 ```bash
-
 # 安装依赖
 npm install
 
 # 启动Web App
 npm start
-
 ```
 
+## Demo Link
+
+[http://dev.feihu1996.cn/WMovie/](http://dev.feihu1996.cn/WMovie/ "WMovie")
