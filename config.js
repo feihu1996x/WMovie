@@ -10,7 +10,7 @@
 
 module.exports = { 
     web_host: "0.0.0.0",  // 服务器监听地址
-    web_port: 8004,  // 服务器监听端口
+    web_port: 8084,  // 服务器监听端口
     url_prefix: "" // url前缀, '/WMovie'
 }
 
